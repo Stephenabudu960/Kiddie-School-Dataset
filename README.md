@@ -62,6 +62,6 @@ Using Python and key data analysis libraries, this project demonstrates data gen
 
 ## 👨‍💻 Author
 **Stephen Abudu**  
-Mass Communication Graduate | Aspiring Data Analyst  
+Mass Communication Graduate | Data Analyst  
 📧 stephenabudu960@gmail.com  
 📍 Nigeria
